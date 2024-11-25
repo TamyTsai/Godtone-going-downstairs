@@ -1,4 +1,6 @@
 # 統神端火鍋下塔遊戲
+遊戲網頁版：https://play.unity.com/en/games/b4636bbc-c1b7-41c1-b94a-93f531bc076b/godtone-going-downstairs
+
 <img width="450" alt="初始畫面" src="https://github.com/user-attachments/assets/5523412a-a008-4bbc-9482-f48052fc9ca0">
 
 ## 關於統神端火鍋下塔遊戲
