@@ -12,7 +12,7 @@
 <!-- ## 簡介
 - 本專案為統神端火鍋下塔遊戲遊戲，玩家需操控統神，透過避開尖刺走下樓梯，避免生命條用罄及掉下視窗外
 - 撐得越久分數越高
-- 為跟著「[【python】pygame 3小時製作一個遊戲](https://www.youtube.com/watch?v=61eX0bFAsYs)」製作之遊戲，圖片、聲音、字型等檔案皆自此下載
+- 為跟著「[【python】pygame 3小時製作一個遊戲](https://www.youtube.com/watch?v=61eX0bFAsYs)」製作之遊戲，圖片、聲音等檔案皆自此下載
  -->
 
 <!-- ## 功能 -->
