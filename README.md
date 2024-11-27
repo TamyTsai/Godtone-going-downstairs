@@ -5,7 +5,7 @@
 
 ## 關於統神端火鍋下塔遊戲
 - 操控端著火鍋的統神，避開尖刺，步步為營走下階梯的遊戲
-- 為跟著「[【Unity】3小時製作一個遊戲 ｜ Unity 遊戲開發初學者教學](https://www.youtube.com/watch?v=nPW6tKeapsM)」製作之遊戲，圖片、聲音、字型等檔案皆自此下載
+- 為跟著「[【Unity】3小時製作一個遊戲 ｜ Unity 遊戲開發初學者教學](https://www.youtube.com/watch?v=nPW6tKeapsM)」製作之遊戲，圖片及聲音等檔案皆自此下載
 
 <!-- 專案目的 -->
 
